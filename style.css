@@ -1,0 +1,29 @@
+body {
+  background: rgb(255, 219, 172);
+  text-align: center;
+}
+
+.container {
+  size: 90%;
+  width: 50%;
+  padding: 20px;
+  background: snow;
+  margin: auto;
+}
+
+.header {
+  margin: 0px;
+}
+
+.form_group {
+  margin: 10px;
+  font-size: 120%;
+}
+
+.form_group input {
+  margin-left: 10px;
+}
+
+.filled_in_error {
+  color: #ff0000;
+}
